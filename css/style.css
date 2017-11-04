@@ -71,7 +71,11 @@ p.title {
 }
 
 @media (max-width:767px){
+	
+	.sm-margin {
+		margin-left: 10%;
+	}
 	.sm {
-		width: 100%;
+		width: 80%;
 	}
 }
